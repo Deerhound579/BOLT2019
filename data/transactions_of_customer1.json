@@ -1,0 +1,4970 @@
+{
+  "statusCode": 200,
+  "requestId": "8e06a75e-96bb-40f3-8de9-9da6af5f90d6",
+  "result": [
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 4.08,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-06T16:45:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-005cb114-260a-4030-9da6-aa8d5e852726",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.23,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-15T15:12:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-006ebd59-7064-4bb1-ae48-805e0394823c",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 58.17,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-25T12:56:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-0070ffd9-b3ea-49e3-b7db-eeb9e0f5f7de",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "4816",
+      "description": "TEKSAVVY F7I9V1",
+      "type": "DepositAccountTransaction",
+      "merchantName": "TekSavvy",
+      "currencyAmount": -125.34,
+      "originationDateTime": "2019-07-27T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "c24ee8b4-c5fa-4cc6-b875-890f9ad99422",
+      "id": "39c295c7-008e9d67-1a61-4d4f-b7c9-c976d979c724",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Bills and Utilities"
+      ]
+    },
+    {
+      "description": "ADP PMT 89659889",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-04-19T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-0145d18d-91de-4a41-87d2-ffb163a678a0",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***Zzu",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-08-02T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-02a5f674-3fdb-4617-8ad9-57261f7d9dbb",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "ADP PMT 80485895",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 17575.22,
+      "originationDateTime": "2019-03-01T00:00:02.550Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-03685a59-dd28-4d53-9a03-88944c1b82b0",
+      "accountId": "4766c96b-10ea-4c7f-8fb7-6540aa649d10",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.23,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-29T16:15:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-039f2898-0f94-4303-a2c9-ca0782e8a1b2",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 2.71,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-17T08:12:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-041b5287-1146-4960-bc4b-04ea2989d8f9",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 57.15,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-17T19:15:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-04ce6201-c8f5-4134-96a1-19304eabb772",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 1.89,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-26T16:06:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-05536663-c635-4da7-a080-11d5ab656546",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.81,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-30T14:16:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-05e1bfbe-0026-43a3-afbe-9d1108eb0ba5",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 1.17,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-05T07:31:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-06f45664-e6c7-447d-85aa-4e9a8ca5112c",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 42.69,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-04T10:24:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-07a40867-0bf4-49ac-a89a-cc6ba4b3680b",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***crz",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-07-12T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-09f4266b-428c-49e5-8397-b58fecdf520b",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 55.39,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-10T09:18:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-0b2542ff-821c-4159-91bb-c1938a1b7314",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***Btw",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-08-09T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-0ca84b1a-dba9-4424-8c4c-b0452c1eb8e2",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.66,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-31T08:36:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-0d6e25c0-79b2-47be-ad75-e4e15fd939e2",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "ZY126 C/C PAYMENT",
+      "type": "CreditCardTransaction",
+      "currencyAmount": -819.91,
+      "source": "ACCT",
+      "originationDateTime": "2019-10-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
+      "id": "39c295c7-0d96ab8c-5352-49c2-be18-39f20e9d8367",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 31.81,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-04-13T19:27:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-0e595042-04ea-47da-beea-03c61429db7a",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 4.69,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-13T10:02:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-0f787390-2c1b-47a0-8a68-572979318ab7",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.18,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-26T15:51:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-12c78949-116a-48c0-8a51-d0b865a9b832",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 4.82,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-19T16:44:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-148a3e84-0665-4885-87cf-52390ccc3f23",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 69.27,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-29T09:34:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-14d5a499-df49-4c03-a6f0-939d77ed7788",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.42,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-19T18:42:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-1558934f-d23a-4756-84ca-8ac3c3d63696",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 1.66,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-14T15:37:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-16e62a3c-b1df-452d-9f1e-1d071a357661",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5812",
+      "description": "MILESTONES 3698",
+      "type": "CreditCardTransaction",
+      "merchantName": "Milestones",
+      "currencyAmount": 143.77,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-17T11:36:00Z",
+      "locationPostalCode": "M1P 4P5",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bdbf0c26-22fa-4af2-b79d-91f0ba990b37",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-19b2f029-3dea-4deb-880c-18454f43456d",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2922526784,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#1949",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 66.81,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-19T13:38:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "f515b8ed-bd52-4a3b-97cd-abb5b2e4f2f9",
+      "locationLatitude": 43.7839385262,
+      "id": "39c295c7-1a0c5578-eec0-455e-a508-4abad6d34509",
+      "locationStreet": "3850 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.07,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-29T09:03:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-1b693b75-83eb-4a9c-b05b-b3d1e4dd0acf",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "ADP PMT 74092999",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-07-26T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-1c15debc-1bb0-4069-94c6-7d5620f79160",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.79,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-10T10:25:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-1cb4bc86-0d6b-4317-9afc-31b121cbacbd",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 3.77,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-26T11:18:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-1fb88ab5-668c-471a-a483-6a319adf862e",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***ZmY",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-09-06T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-20774b9b-18ca-40f7-8462-f8635ee46e0a",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***XDB",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-09-27T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-210da7ad-e0f4-4afc-9943-3fb9c31dd3f1",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "E TFR C2***GYL",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-10-04T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-22328205-f66f-49c0-90fc-893830eb0d8c",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2921134724,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "7832",
+      "description": "CINEPLEX 9883",
+      "type": "CreditCardTransaction",
+      "merchantName": "Cineplex",
+      "currencyAmount": 60.16,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-22T08:03:00Z",
+      "locationPostalCode": "M1L 4V9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ac38f313-3f51-4b4b-9a2a-014f19cff6fc",
+      "locationLatitude": 43.7222395759,
+      "id": "39c295c7-25673ecd-c376-4683-8524-2e2c2c1aefe1",
+      "locationStreet": "22 Lebovic Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "locationLongitude": -79.2922526784,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#1949",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 65.28,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-28T12:21:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "f515b8ed-bd52-4a3b-97cd-abb5b2e4f2f9",
+      "locationLatitude": 43.7839385262,
+      "id": "39c295c7-25adfe68-9c04-40d2-830b-900a226ea89c",
+      "locationStreet": "3850 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "ADP PMT 99874185",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-09-20T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-26771474-6aa7-48a1-b83b-3ea965d7e11f",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 65.14,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-14T08:10:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-26ea74c7-a85f-4f49-8fb2-9817db2b96b3",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 57.77,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-03T11:57:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-27e5fb55-cfbf-4f47-8c18-64307df848f4",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5812",
+      "description": "MILESTONES 3698",
+      "type": "CreditCardTransaction",
+      "merchantName": "Milestones",
+      "currencyAmount": 182.07,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-22T13:11:00Z",
+      "locationPostalCode": "M1P 4P5",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bdbf0c26-22fa-4af2-b79d-91f0ba990b37",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-295bed95-cfd8-42a7-9001-7df7da0d63f5",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***lvb",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-07-26T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-2b6e3c83-25ef-40d9-b0c5-7486633c5b76",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 30.54,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-10-10T11:45:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-2c381fac-8d58-4602-94eb-63a55d5d2b9e",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.63,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-24T11:36:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-2c540cb2-dda5-47db-95ba-21278ba26e7b",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.3719792973,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #98211",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 42.66,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "North York",
+      "originationDateTime": "2019-07-11T16:40:00Z",
+      "locationPostalCode": "M2K 1C2",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "43204ee6-4b8c-445d-b9a5-19ac482d8e5e",
+      "locationLatitude": 43.7697656614,
+      "id": "39c295c7-2d9f1bfa-ab69-4cbb-b9bb-2832fefe35ea",
+      "locationStreet": "1019 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "locationLongitude": -79.1984850748,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5812",
+      "description": "SWISS CHALET 4889",
+      "type": "CreditCardTransaction",
+      "merchantName": "Swiss Chalet",
+      "currencyAmount": 193.44,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-20T09:52:00Z",
+      "locationPostalCode": "M1B 3C3",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "8682b600-fa08-4b9e-8ec5-8d4bae9891b3",
+      "locationLatitude": 43.8001436044,
+      "id": "39c295c7-3102fbb7-efcc-407a-9106-ad50e8c0f8ec",
+      "locationStreet": "853 Milner Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 62.22,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-08T08:57:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-3190d01e-9702-48b1-a87d-3e2cf6a7eb5f",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "5942",
+      "description": "Amazon.ca",
+      "type": "DepositAccountTransaction",
+      "merchantName": "Amazon",
+      "currencyAmount": -193.2,
+      "originationDateTime": "2019-09-18T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "9e491cad-0a7b-49d5-9522-e95012f233f4",
+      "id": "39c295c7-31af55b8-3b1f-42b9-93cc-966a4f384bab",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Shopping"
+      ]
+    },
+    {
+      "description": "ADP PMT 38188369",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-05-17T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-32b0b9fa-181f-43bd-8e4a-12f9f07c9b9b",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 28.59,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-04-25T10:04:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-33ed959d-1b70-4181-a31b-29d697576630",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.3617799376,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5921",
+      "description": "LCBO #164",
+      "type": "CreditCardTransaction",
+      "merchantName": "LCBO",
+      "currencyAmount": 19.6,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "East York",
+      "originationDateTime": "2019-04-09T07:42:00Z",
+      "locationPostalCode": "M4G 4H9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "fa8a8d90-ae46-4738-9cda-a9f68c2c30f3",
+      "locationLatitude": 43.710534412,
+      "id": "39c295c7-344a5f34-5e11-438b-b3b3-9a6348f1332d",
+      "locationStreet": "65 Wicksteed Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.49,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-19T07:29:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-369559a5-1795-4849-95f0-74e13e50e6fd",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2536894856,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #94980",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 67.97,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-09T16:59:00Z",
+      "locationPostalCode": "M1K 2S1",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b6af3b1a-6fb1-4396-a1cd-fd5dba4e22ed",
+      "locationLatitude": 43.735184118,
+      "id": "39c295c7-36e0ffe1-f778-4304-93ad-e5fc77eeef09",
+      "locationStreet": "2601 Eglinton Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "locationLongitude": -79.2921134724,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "7832",
+      "description": "CINEPLEX 9883",
+      "type": "CreditCardTransaction",
+      "merchantName": "Cineplex",
+      "currencyAmount": 45.46,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-27T13:40:00Z",
+      "locationPostalCode": "M1L 4V9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ac38f313-3f51-4b4b-9a2a-014f19cff6fc",
+      "locationLatitude": 43.7222395759,
+      "id": "39c295c7-381f46f1-46cb-4431-b2e0-94d743692cb7",
+      "locationStreet": "22 Lebovic Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***zAf",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-06-14T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-38be06ca-6823-407e-a0bb-3f8cbf4c233c",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 7.61,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-19T13:51:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-39ddb5b1-c76c-44cb-91c6-fab1b981afd0",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 1.67,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-27T15:37:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-3aaa9beb-8c06-4205-bd87-bf89ec72fc32",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 30.59,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-09-28T15:37:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-3c30e13a-1d28-42f4-ae7d-4df6f092b3a8",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 67.06,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-24T16:49:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-3cdb3144-d399-4edd-8696-eb11872b5b59",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 27.23,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-05-31T11:48:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-411f7e74-8a82-4c04-8d1c-564678478f53",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-13T12:49:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-414a9b9c-7c7a-420f-b37c-a8f3011aec62",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.61,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-24T11:29:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-42089142-a19d-4f0d-848c-b99bc4d02b3f",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "AZ988 C/C PAYMENT",
+      "type": "CreditCardTransaction",
+      "currencyAmount": -650.72,
+      "source": "ACCT",
+      "originationDateTime": "2019-07-03T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
+      "id": "39c295c7-43d555d8-18ad-4441-bd9d-198415a26940",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "CANADA RIT",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 8787.61,
+      "originationDateTime": "2019-03-01T00:00:02.550Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-43ff419a-d5e6-4f1d-9251-26d3d31bf156",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Taxes",
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.252816824,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5651",
+      "description": "WINNERS 999",
+      "type": "CreditCardTransaction",
+      "merchantName": "Winners",
+      "currencyAmount": 151.54,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-11T09:15:00Z",
+      "locationPostalCode": "M1S 3P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "9ffdbdca-9ed2-469e-a5ad-2e4a83f98199",
+      "locationLatitude": 43.782838377,
+      "id": "39c295c7-4500b88e-a041-447f-8609-decfd33e622a",
+      "locationStreet": "45 Milner Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Shopping"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 25.33,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-07-18T15:16:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-453bc71f-2384-4410-9d79-41c9cd6d248f",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 34,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-08-23T14:00:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-455488fe-3f4c-4efd-a2a6-553da2f3b02d",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.95,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-23T08:40:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-458dbe3f-7759-4a96-a7de-3be20d0836ae",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.96,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-11T19:46:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-4711f133-1928-411e-aa23-29aefe0b1cd5",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***Zga",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-05-31T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-4b34c464-ddb2-48fb-9844-f3cb73137d2d",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***fph",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-04-05T00:00:00.003Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-4b81473b-2007-4e1a-906c-c42ed78bd0eb",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.87,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-15T07:35:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-4db5801c-2e6f-4a28-9d9b-3a92e3d706c8",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.52,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-27T07:03:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-4f5f069c-a711-4cbc-809e-66498393a50b",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.48,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-12T12:54:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-4ff44884-9d76-4877-acd6-666df27010db",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 4.05,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-17T09:17:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-51007310-468b-47ca-9a5f-3a475cd61136",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.34,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-22T12:17:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-51eaecd5-73ed-490f-a992-08f8e7e096eb",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 1.72,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-07T18:15:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-5306b181-13af-4882-9828-5bd4d75b6bcf",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "ZY126 TFR-TO C/C",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -819.91,
+      "originationDateTime": "2019-10-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
+      "id": "39c295c7-53240b10-331c-477e-b249-a6b214115896",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.66,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-21T14:57:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-53c15fec-d537-43a4-bc9f-7f3bc0921d40",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.78,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-03T13:13:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-55cb1a16-acd5-4ae0-a734-f83314e8a9c0",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2036859037,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "7832",
+      "description": "CINEPLEX 9889",
+      "type": "CreditCardTransaction",
+      "merchantName": "Cineplex",
+      "currencyAmount": 75.15,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-12T15:41:00Z",
+      "locationPostalCode": "M1B 3C3",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "88b3002f-ca5b-4896-86fa-d60dc3c11bb3",
+      "locationLatitude": 43.7975268974,
+      "id": "39c295c7-56d38dc3-cb58-4f59-91a4-3e10f06092eb",
+      "locationStreet": "785 Milner Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***crV",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-10-11T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-57c96bbd-786e-40de-a387-506a4a993adf",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.09,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-03T17:33:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-5b0ec289-3bef-4252-a1dc-e06a13c456cc",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 34.87,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-06-12T10:06:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-5b9d279f-5af0-4ed7-9ff2-99c0a398d6c9",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.91,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-12T09:24:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-5c116d9e-92a7-4306-ae86-94f025f72e3f",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 69.88,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-01T17:57:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-5c9cc8f0-dd8b-4350-9518-2f4b2b90e81f",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5651",
+      "description": "H&M CA #786 - TORONTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "H&M",
+      "currencyAmount": 134.73,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-24T18:03:00Z",
+      "locationPostalCode": "M1P 4P5",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "355d4597-efe4-48bc-b7f0-7e45847dfeac",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-5e186f43-06bc-4f84-ab39-07b8603499da",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Shopping"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 6.89,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-28T11:54:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-5f458b7b-d3d3-4d73-8672-696d6b4668ec",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.08,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-04T10:00:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-611ed84e-51be-44c0-b986-0c5432d64ee8",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.3,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-01T17:39:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-63f93eda-7530-44d2-a41e-9d37822087ee",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***rSQ",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-07-05T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-65133b9d-4032-428a-9594-66e932956632",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 39.74,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-09T09:16:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-66431be4-7f4b-440e-824c-e00b604f1843",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.71,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-06T19:16:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-6760e792-e11f-4ed9-833c-5ca46116b00d",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.93,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-01T07:44:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-6aa2fb54-99e8-4f50-b1bc-760c537645c7",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.81,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-26T12:12:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-6b020cc6-78e6-488e-a7f0-fd0967c288eb",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.3444982153,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "7832",
+      "description": "CINEPLEX 9988",
+      "type": "CreditCardTransaction",
+      "merchantName": "Cineplex",
+      "currencyAmount": 79.17,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "North York",
+      "originationDateTime": "2019-05-25T10:29:00Z",
+      "locationPostalCode": "M2J 5A7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b15df065-9f63-4442-9fd0-edba10803612",
+      "locationLatitude": 43.7777482543,
+      "id": "39c295c7-6b215b50-f2ad-4da0-93e7-5c381b67f54f",
+      "locationStreet": "1800 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "description": "ADP PMT 14619983",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-09-06T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-6d0ddc7c-c655-4d90-b7a4-e792af1717d8",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2922526784,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#1949",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 55.7,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-31T10:19:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "f515b8ed-bd52-4a3b-97cd-abb5b2e4f2f9",
+      "locationLatitude": 43.7839385262,
+      "id": "39c295c7-6d1765b6-4aac-42cb-ac98-be27ea7ff461",
+      "locationStreet": "3850 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.73,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-11T16:39:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-6dc90efb-86da-48eb-bae9-7b7f00e9ad8d",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***WPY",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-09-20T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-6fcceb83-9c82-4e6b-830d-0b0575cf1b86",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2542259734,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5812",
+      "description": "JACK ASTOR'S 8999",
+      "type": "CreditCardTransaction",
+      "merchantName": "Jack Astor's",
+      "currencyAmount": 122.54,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-12T09:31:00Z",
+      "locationPostalCode": "M1P 2K2",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "a9b307f8-b427-47c6-9240-83692eee5ef7",
+      "locationLatitude": 43.7774919403,
+      "id": "39c295c7-720bda12-66af-474c-b19d-09a6879a7b71",
+      "locationStreet": "580 Progress Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5651",
+      "description": "H&M CA #786 - TORONTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "H&M",
+      "currencyAmount": 160.63,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-14T11:22:00Z",
+      "locationPostalCode": "M1P 4P5",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "355d4597-efe4-48bc-b7f0-7e45847dfeac",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-72296a08-1dac-46a5-9941-8ffab4fa881e",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Shopping"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***LzT",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-05-10T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-72f1da11-ed45-437e-8fa7-182227e0eb5f",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2858562594,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5921",
+      "description": "LCBO #163",
+      "type": "CreditCardTransaction",
+      "merchantName": "LCBO",
+      "currencyAmount": 27.09,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-09T12:51:00Z",
+      "locationPostalCode": "M1L 1A9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "274b00e2-7cbf-46f6-99d6-2695d2f8cded",
+      "locationLatitude": 43.6910971452,
+      "id": "39c295c7-740a9cdb-0f80-4a03-9fdf-391094bcc067",
+      "locationStreet": "3111 Danforth Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.38,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-21T11:46:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-741efef0-042b-480e-ae63-5354cef7cf0c",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.3462588972,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5921",
+      "description": "LCBO #320",
+      "type": "CreditCardTransaction",
+      "merchantName": "LCBO",
+      "currencyAmount": 28.8,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "East York",
+      "originationDateTime": "2019-07-09T12:32:00Z",
+      "locationPostalCode": "M4H 1C3",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "3de19e32-31dc-41e2-92e3-93e368bea3e8",
+      "locationLatitude": 43.7055467108,
+      "id": "39c295c7-74bc608c-3469-40f6-935d-34c5eaad572b",
+      "locationStreet": "45 Overlea Blvd",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***xXR",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-07-19T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-760ca717-2885-4eb4-93fd-2eb7c4f5efe6",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 62.45,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-17T19:14:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-76a99721-3516-4a16-a00d-08e3e3dd075a",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2922526784,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#1949",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 70.23,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-15T16:18:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "f515b8ed-bd52-4a3b-97cd-abb5b2e4f2f9",
+      "locationLatitude": 43.7839385262,
+      "id": "39c295c7-778cb7c2-6ede-4f6d-af7a-c40451a3c16e",
+      "locationStreet": "3850 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.9,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-13T15:33:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-7a8277cf-b9df-4c86-b987-c793079fb5dd",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "AZ988 TFR-TO C/C",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -650.72,
+      "originationDateTime": "2019-07-03T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
+      "id": "39c295c7-7c728612-bd2e-4b7d-90dc-4f4f56b34155",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.87,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-23T09:38:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-7c80cd0a-a771-4c80-9ef4-75d551d04402",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.87,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-08T19:04:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-7e7c316e-d0e1-4d47-9496-dc783f7b4728",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2536894856,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #94980",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 27.85,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-20T12:13:00Z",
+      "locationPostalCode": "M1K 2S1",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b6af3b1a-6fb1-4396-a1cd-fd5dba4e22ed",
+      "locationLatitude": 43.735184118,
+      "id": "39c295c7-7f3db603-de6e-448a-bd2b-c7cf95c075ff",
+      "locationStreet": "2601 Eglinton Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "locationLongitude": -79.2921134724,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "7832",
+      "description": "CINEPLEX 9883",
+      "type": "CreditCardTransaction",
+      "merchantName": "Cineplex",
+      "currencyAmount": 46.88,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-14T17:33:00Z",
+      "locationPostalCode": "M1L 4V9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ac38f313-3f51-4b4b-9a2a-014f19cff6fc",
+      "locationLatitude": 43.7222395759,
+      "id": "39c295c7-7f75cdd0-f285-4b71-8d35-1d4592e84afb",
+      "locationStreet": "22 Lebovic Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "description": "E TFR C2***xZY",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-06-28T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-8001f842-1e64-4464-ab6d-e60acde3a768",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 33.13,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-08-11T10:06:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-817ea49d-2d38-47a4-bcc3-d5a4a4eb5196",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 1.5,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-17T07:38:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-82a7e99d-3a7d-4341-8aec-0afe6f419bf8",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5651",
+      "description": "H&M CA #786 - TORONTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "H&M",
+      "currencyAmount": 134.54,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-09T13:25:00Z",
+      "locationPostalCode": "M1P 4P5",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "355d4597-efe4-48bc-b7f0-7e45847dfeac",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-8463314a-560f-4bde-afc4-3127d574d48d",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Shopping"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 6.78,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-01T10:00:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-84cdf814-6168-4701-9f5e-70bb5117da8f",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***kQa",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-04-12T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-8549e345-8558-4199-8666-40c0327e5d60",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "ADP PMT 29785656",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-05-03T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-866f52b7-d931-4597-8dd0-d069f69bb996",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 50.69,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-18T10:13:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-869899cf-7fdc-41a4-8d6c-18d34c57ce72",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 53.42,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-26T15:35:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-88972922-b5a0-4daf-bd2b-c04e6a547353",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 69.42,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-12T18:05:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-8ba8f410-9674-495d-8b64-93e69a1bbca8",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "ADP PMT 68079699",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-04-05T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-8e5cd2c3-6873-4cd7-a846-d2038a835937",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "description": "ADP PMT 88350858",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-08-09T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-8e75fb6e-7dce-4396-9716-50ee1cf857cb",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 3.74,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-11T19:57:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-90ebd123-6051-4c35-9447-0fcf045da2c8",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.3728952091,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #95085",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 58.55,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "North York",
+      "originationDateTime": "2019-08-22T15:49:00Z",
+      "locationPostalCode": "M2K 1C2",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "6968d5ef-83b4-43d6-ae4d-ed29b7400280",
+      "locationLatitude": 43.7694010061,
+      "id": "39c295c7-90f76e0b-9568-4059-9e32-74c5c225731e",
+      "locationStreet": "1015 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 34.24,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-05-07T11:43:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-939dd166-a45b-4648-afe6-1c7dfb7b4c65",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.25,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-25T15:34:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-9464a873-6707-4046-807b-cc18bfb3f2f8",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 2.98,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-12T11:53:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-95504bc9-a3c9-4969-bc85-d16a03fa6220",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.3462588972,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5921",
+      "description": "LCBO #320",
+      "type": "CreditCardTransaction",
+      "merchantName": "LCBO",
+      "currencyAmount": 45.4,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "East York",
+      "originationDateTime": "2019-06-09T16:57:00Z",
+      "locationPostalCode": "M4H 1C3",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "3de19e32-31dc-41e2-92e3-93e368bea3e8",
+      "locationLatitude": 43.7055467108,
+      "id": "39c295c7-991f18ac-03d4-4d55-ba36-1d2d9104ad9a",
+      "locationStreet": "45 Overlea Blvd",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***ldM",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-08-16T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-9952a33d-88bc-41ba-a2b8-deedc0c54727",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 27.72,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-10-22T14:26:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-9a965347-470a-4023-b38a-912f20a87725",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "WQ958 TFR-TO C/C",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -633.44,
+      "originationDateTime": "2019-05-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
+      "id": "39c295c7-9b16c49b-8a1c-4822-b90c-7ce368d19a84",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 61.57,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-02T08:05:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-9b29df70-14ec-46e3-92fd-08bdc34e762e",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "ADP PMT 18823989",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-06-28T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-9b797e12-fd17-4ea1-8891-9dea65e14cac",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.21,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-22T15:35:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-9baf25f9-e68b-421b-96d6-6206196c2db7",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 1.4,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-04T19:36:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-9e2cef25-4fdc-4877-9ea2-d7bf3f43338b",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.04,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-05T14:00:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-9ed2f029-6f3a-4b2c-a6a4-dddb074fe44a",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.8,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-06T17:30:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-9fe46421-ad29-485e-a200-0877f5ff7fe4",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.69,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-05T17:28:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-a0c350ec-e366-486a-add2-da9db992d363",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 1.78,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-12T16:36:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-a0cf5fbd-ab96-4fa8-9f15-0d67b6338b86",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 48.5,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-23T07:25:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-a2a79f6e-4b8f-442a-822b-10f8e147e020",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 7.57,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-10T10:48:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-a332a93e-5b6a-4cd1-888f-ebfbcf89b075",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "WQ958 C/C PAYMENT",
+      "type": "CreditCardTransaction",
+      "currencyAmount": -633.44,
+      "source": "ACCT",
+      "originationDateTime": "2019-05-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
+      "id": "39c295c7-a351ec07-7296-49df-bbc4-2450338ab0e0",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 1.61,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-20T16:19:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-a35cc1e7-9d8a-446d-8bea-a884abd66dfb",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***Rwv",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-08-23T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-a4a577cb-351a-43ea-b37b-8745df213c53",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 63.93,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-03T17:44:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-a5c70dc9-b642-47e9-8af4-b48d3cc2f320",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2536894856,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #94980",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 35.31,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-01T10:03:00Z",
+      "locationPostalCode": "M1K 2S1",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b6af3b1a-6fb1-4396-a1cd-fd5dba4e22ed",
+      "locationLatitude": 43.735184118,
+      "id": "39c295c7-a6628773-6d41-4d9a-965a-1cfa1e249ead",
+      "locationStreet": "2601 Eglinton Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.07,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-11T08:51:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-a6874dd0-bae1-4e51-91ed-e3a3074a5167",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2536894856,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #94980",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 72.85,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-12T11:31:00Z",
+      "locationPostalCode": "M1K 2S1",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b6af3b1a-6fb1-4396-a1cd-fd5dba4e22ed",
+      "locationLatitude": 43.735184118,
+      "id": "39c295c7-a7f03c89-6abf-4b3c-be16-faa4a766a7fb",
+      "locationStreet": "2601 Eglinton Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "description": "ADP PMT 83958328",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-05-31T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-a8d5df9b-f1f3-4516-8385-b1abb837d939",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 27.6,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-07-06T18:44:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-a8f89499-146d-4294-b4b1-637838aebfb2",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 6.39,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-08T14:00:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-a93aa173-9215-49cd-928e-365154cde645",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.61,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-07T18:45:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-a95a8b3c-78a5-4d66-88cc-af8e4f964406",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 5.97,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-21T13:50:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-a960f8d1-8967-4b66-971b-a9b0423e75b8",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 3.44,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-25T09:14:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-abc219be-1ed0-4656-bd80-810248f85581",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 2.3,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-04T14:25:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-ac05f44b-4f58-4d11-af6d-a2b643465d07",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.49,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-24T10:21:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-ad2acb93-c4c6-4cda-a2d3-6e649ca97ef7",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "QV367 C/C PAYMENT",
+      "type": "CreditCardTransaction",
+      "currencyAmount": -772.53,
+      "source": "ACCT",
+      "originationDateTime": "2019-08-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
+      "id": "39c295c7-ae61fd3d-f908-4f62-8657-93634a91123d",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "ADP PMT 19549784",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-07-12T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-b1a9950f-68da-48c0-8003-be7c9dd433e6",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "description": "E TFR C2***Hyc",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-08-30T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-b1e99f2f-cc2d-4789-b994-cbb9bb3436a8",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2536894856,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #94980",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 45.79,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-30T08:52:00Z",
+      "locationPostalCode": "M1K 2S1",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b6af3b1a-6fb1-4396-a1cd-fd5dba4e22ed",
+      "locationLatitude": 43.735184118,
+      "id": "39c295c7-b210fb65-7381-485b-aca8-ab2c84313f64",
+      "locationStreet": "2601 Eglinton Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "DY389 TFR-TO C/C",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -948.5,
+      "originationDateTime": "2019-06-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
+      "id": "39c295c7-b2381f36-cf89-4f70-8c7a-91875bda6139",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "E TFR C2***dfx",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-05-17T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-b259f6e0-be07-4c9d-b11d-6a306ccb664a",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.63,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-24T16:13:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-b2bd01af-2a4e-4cdd-80e6-92cb2299da40",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 33.73,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-09-16T15:29:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-b3f3d733-e38f-4152-bce5-bab1b54390d0",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 6.93,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-31T08:30:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-b50771e3-c79c-4c68-966f-cc4deec8bf98",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.98,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-07T15:03:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-b5b55613-c102-454c-b6df-11911a100747",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2542259734,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5812",
+      "description": "JACK ASTOR'S 8999",
+      "type": "CreditCardTransaction",
+      "merchantName": "Jack Astor's",
+      "currencyAmount": 131.31,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-25T10:49:00Z",
+      "locationPostalCode": "M1P 2K2",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "a9b307f8-b427-47c6-9240-83692eee5ef7",
+      "locationLatitude": 43.7774919403,
+      "id": "39c295c7-b7babc6f-78f2-48de-9f8f-8e15a3d29af4",
+      "locationStreet": "580 Progress Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2858562594,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5921",
+      "description": "LCBO #163",
+      "type": "CreditCardTransaction",
+      "merchantName": "LCBO",
+      "currencyAmount": 18.92,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-09T17:45:00Z",
+      "locationPostalCode": "M1L 1A9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "274b00e2-7cbf-46f6-99d6-2695d2f8cded",
+      "locationLatitude": 43.6910971452,
+      "id": "39c295c7-b816397f-83d6-41cc-bcde-32d3c5030230",
+      "locationStreet": "3111 Danforth Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "XU555 TFR-TO C/C",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -838.74,
+      "originationDateTime": "2019-09-04T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
+      "id": "39c295c7-b8dfde60-67b1-4a1f-8e35-c517f7e66153",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 60.05,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-16T17:09:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-b9820ae8-d8c3-4169-b00c-4b4ef6c6d33a",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "QV367 TFR-TO C/C",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -772.53,
+      "originationDateTime": "2019-08-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "852223a6-f227-4e4c-818e-36bb880866f2",
+      "id": "39c295c7-ba4b9065-1ce2-4e45-8f8b-c8f27634f73a",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.52,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-28T12:16:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-ba540d4b-b2cf-4af6-881f-e493d2caafbb",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 31.4,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-07-30T14:22:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-bac04abd-1f72-4495-90ed-876cc3c1e9da",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 1.93,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-02T10:44:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-bd6bec40-e034-4a51-a42f-4c9bf7d88ab5",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "4816",
+      "description": "TEKSAVVY V3N7R0",
+      "type": "DepositAccountTransaction",
+      "merchantName": "TekSavvy",
+      "currencyAmount": -125.34,
+      "originationDateTime": "2019-09-27T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "c24ee8b4-c5fa-4cc6-b875-890f9ad99422",
+      "id": "39c295c7-bd8eb765-121b-46aa-9879-45adc034aeea",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Bills and Utilities"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.41,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-15T16:22:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-be3ebb49-4805-4998-b140-cf0b97372e8f",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.75,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-06T07:48:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-c183ce3c-982e-471f-9832-ed78c0a889e0",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 1.47,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-10T14:38:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-c3db732f-78b7-4990-b663-2cc40b5c6f82",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 39.93,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-22T17:13:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-c3fb6f0e-d547-4870-b413-3abf65da3ef9",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.38,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-23T14:58:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-c46b7559-652a-42c2-ac3a-db2c341f6137",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "4816",
+      "description": "TEKSAVVY B6Z4B8",
+      "type": "DepositAccountTransaction",
+      "merchantName": "TekSavvy",
+      "currencyAmount": -125.34,
+      "originationDateTime": "2019-05-28T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "c24ee8b4-c5fa-4cc6-b875-890f9ad99422",
+      "id": "39c295c7-c65ce15d-47f3-4ece-84dd-73e511ad0e35",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Bills and Utilities"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.34,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-10T16:43:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-c7f1bdd6-6d6d-478f-9ff2-eee55bf517b5",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.13,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-09T17:46:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-c8f683cc-6b60-4d9a-84ea-b267939f5187",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2542259734,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5812",
+      "description": "JACK ASTOR'S 8999",
+      "type": "CreditCardTransaction",
+      "merchantName": "Jack Astor's",
+      "currencyAmount": 152.73,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-14T18:11:00Z",
+      "locationPostalCode": "M1P 2K2",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "a9b307f8-b427-47c6-9240-83692eee5ef7",
+      "locationLatitude": 43.7774919403,
+      "id": "39c295c7-c939014a-a4ad-4bb1-98bf-e2a5a3be60cf",
+      "locationStreet": "580 Progress Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.12,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-20T10:56:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-c9d3f3f0-4b38-40ef-95f8-31f5c1019d1d",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.91,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-31T13:59:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-cb89a592-a32b-48b2-bd1b-fb1f3788d683",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMTFR  C1***rfs",
+      "type": "CreditCardTransaction",
+      "merchantName": "1289-1374896",
+      "currencyAmount": 200,
+      "originationDateTime": "2019-04-05T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-cc09077f-cd17-41f6-95c5-2a7d268ed37c",
+      "accountId": "4766c96b-10ea-4c7f-8fb7-6540aa649d10",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 33.56,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-06-24T19:09:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-cd110dd9-3020-489d-b1dd-ff5e77e291eb",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 60.23,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-24T18:38:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-cd166855-e383-49e4-bc85-ea1c5c504b21",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2036859037,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "7832",
+      "description": "CINEPLEX 9889",
+      "type": "CreditCardTransaction",
+      "merchantName": "Cineplex",
+      "currencyAmount": 59.86,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-20T09:45:00Z",
+      "locationPostalCode": "M1B 3C3",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "88b3002f-ca5b-4896-86fa-d60dc3c11bb3",
+      "locationLatitude": 43.7975268974,
+      "id": "39c295c7-cecd3c89-a04b-44e3-a10c-3ab76cf759dc",
+      "locationStreet": "785 Milner Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.8,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-09T16:46:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-cfd24d9c-d0b1-4fe7-a55c-a07fa46739f8",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.78,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-16T17:12:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-cff52d52-903b-46ea-8d39-81c95c175b0e",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 4.49,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-04T11:43:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-cffb0b80-6a13-44f2-a3e6-bf45d29a44fe",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EmTFR  C1***rfs",
+      "type": "DepositAccountTransaction",
+      "merchantName": "Macrosavings",
+      "currencyAmount": -200,
+      "originationDateTime": "2019-04-05T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-d056b0f7-b548-4e4a-93d4-f5aa6e804bd0",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 65.17,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-11T10:54:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-d32cb11f-5bcb-40a2-902e-0a17cdc6830d",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.43,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-20T14:01:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-d35280c4-fd31-484d-8e19-aef72a693ed7",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 2.83,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-06-14T08:48:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-d3dcdebb-5c7b-46a8-9ae6-62f2ee21eb12",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.69,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-18T09:55:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-d53327a7-5e73-4dcd-9cd5-15b39f7bddb8",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 5.96,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-18T09:57:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-d6132474-ec6a-4cdd-a594-a728b3dd0ba8",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***ZcQ",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-09-13T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-db26c634-3156-4464-84ef-6504ff80c531",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.86,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-03T16:19:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-dbbdf759-fe9d-49fc-8748-8de4f1cf8be7",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 1.27,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-13T18:01:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-dd8c71c6-8274-4a0c-a85a-e33539764a73",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 7.3,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-16T17:12:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-dda4d04a-f35d-4875-907f-10b19031f25b",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "ADP PMT 93014548",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-10-04T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-de4102f0-882b-47dd-8964-1256ce5ca780",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.02,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-22T13:53:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-de9bc421-2648-4729-b016-7ac9a0485483",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 5.47,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-12T13:50:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-df8e682b-30b2-421b-859c-e002ddf0d936",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.86,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-02T09:26:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-dfa5458e-80ba-491b-9a51-3e660cc065d5",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 2.32,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-03T08:34:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-e1c59ff8-bf3e-471a-b7a7-b8eb3bb3e8b8",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "DY389 C/C PAYMENT",
+      "type": "CreditCardTransaction",
+      "currencyAmount": -948.5,
+      "source": "ACCT",
+      "originationDateTime": "2019-06-01T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
+      "id": "39c295c7-e27454c6-7da5-443d-9ecf-e02bef97a1c1",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 6.6,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-05T19:08:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-e2f89f8c-4dac-47f7-a6a5-2ce05f607f4c",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "6012",
+      "description": "XU555 C/C PAYMENT",
+      "type": "CreditCardTransaction",
+      "currencyAmount": -838.74,
+      "source": "ACCT",
+      "originationDateTime": "2019-09-04T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "b1541b4a-c62f-40f3-aa02-b02f18267223",
+      "id": "39c295c7-e32b05aa-7273-4df5-a124-ec56a7b56c71",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "merchantCategoryCode": "4816",
+      "description": "TEKSAVVY X9C8J8",
+      "type": "DepositAccountTransaction",
+      "merchantName": "TekSavvy",
+      "currencyAmount": -125.34,
+      "originationDateTime": "2019-06-27T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "c24ee8b4-c5fa-4cc6-b875-890f9ad99422",
+      "id": "39c295c7-e3bd7f42-7127-4028-9c63-c373c45cd57e",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Bills and Utilities"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.24,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-04T14:02:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-e575fa52-5719-4219-9a68-c288c666c7a1",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***ynZ",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-04-19T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-e6f6d03a-b3a4-4dd3-b284-64ef8665951b",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "E TFR C2***kBl",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-06-07T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-e6fb4f89-4b4b-458d-b09f-6d9093d8f006",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 6.94,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-29T16:19:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-e7894eaf-c0b2-472b-97d4-fe48a8055170",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.05,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-25T11:14:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-e824c174-686d-4108-92bd-a8c20ed1b147",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 7.68,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-10T14:37:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-e83c81fd-368a-4510-99c8-81a0ffd38fda",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "E TFR C2***AHe",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-06-21T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-e9511afb-0d8a-4418-959f-7015e53dc0d3",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.61,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-03T17:11:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-e9d1396a-2c33-4766-88a9-f35ffddd51ac",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2668856741,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #087 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 5.59,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-11T18:22:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ec0635bb-2eb1-4faa-986f-6c11e40e61e8",
+      "locationLatitude": 43.8326165587,
+      "id": "39c295c7-eacc5c6a-a99b-4797-a17e-ac7988092110",
+      "locationStreet": "5641 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***Zda",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-05-24T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-eb4a035b-c13f-4861-8a5b-8808e88a487f",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***DMU",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-05-03T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-eb6a36da-f0b7-4703-8058-46ce3381d7b0",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "ADP PMT 35958988",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-08-23T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-eb80e465-b5c5-400c-9ceb-1aae30147432",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 7.62,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-09-27T08:20:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-ec1dadb7-4057-4848-a2af-0c6266c4abe5",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "description": "ADP PMT 96915887",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-06-14T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-ec83760f-1878-4d7c-a875-af30c89219ba",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    },
+    {
+      "locationCountry": "CA",
+      "merchantCategoryCode": "4111",
+      "description": "PRESTO",
+      "type": "CreditCardTransaction",
+      "merchantName": "Presto",
+      "currencyAmount": 34.81,
+      "locationRegion": "ON",
+      "source": "POS",
+      "originationDateTime": "2019-09-04T10:06:00Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ee7400d4-10e2-402d-a63c-921860d6030b",
+      "id": "39c295c7-ede97caf-2c1c-4054-a560-645ada6893bb",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Auto and Transport"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 5.83,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-17T08:56:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-ee00826a-ad39-4559-9039-9361748da5dd",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2300709639,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#3350",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 50.75,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-07T11:32:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "bed3379e-1241-4802-92d3-93492e0e925c",
+      "locationLatitude": 43.7585783271,
+      "id": "39c295c7-eec38171-f5e1-444f-a890-75dafce27282",
+      "locationStreet": "3487 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "merchantCategoryCode": "4816",
+      "description": "TEKSAVVY M2A2Q1",
+      "type": "DepositAccountTransaction",
+      "merchantName": "TekSavvy",
+      "currencyAmount": -125.34,
+      "originationDateTime": "2019-04-27T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "c24ee8b4-c5fa-4cc6-b875-890f9ad99422",
+      "id": "39c295c7-f104aa41-645f-42bc-b386-f4aef4603bcf",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Bills and Utilities"
+      ]
+    },
+    {
+      "locationLongitude": -79.2580219048,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5411",
+      "description": "WAL-MART SUPERSTORE#8992",
+      "type": "CreditCardTransaction",
+      "merchantName": "Walmart",
+      "currencyAmount": 52.15,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-10T12:58:00Z",
+      "locationPostalCode": "",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "78317f57-ce0f-4117-9b0b-c05f9dbfb123",
+      "locationLatitude": 43.7762918562,
+      "id": "39c295c7-f1459c5c-78dd-42a2-967c-75a7a7454f2a",
+      "locationStreet": "300 Borough Dr",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 3.59,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-04-18T10:15:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-f1b1638e-da33-4046-a802-1608966e3185",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 4.63,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-30T19:04:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-f29423e6-612f-4899-9104-d0c463ee34c5",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2921134724,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "7832",
+      "description": "CINEPLEX 9883",
+      "type": "CreditCardTransaction",
+      "merchantName": "Cineplex",
+      "currencyAmount": 63.65,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-17T13:18:00Z",
+      "locationPostalCode": "M1L 4V9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "ac38f313-3f51-4b4b-9a2a-014f19cff6fc",
+      "locationLatitude": 43.7222395759,
+      "id": "39c295c7-f2e8c62a-3a50-4f6d-896b-e1b47ee8089f",
+      "locationStreet": "22 Lebovic Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Entertainment"
+      ]
+    },
+    {
+      "locationLongitude": -79.3617799376,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5921",
+      "description": "LCBO #164",
+      "type": "CreditCardTransaction",
+      "merchantName": "LCBO",
+      "currencyAmount": 39.72,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "East York",
+      "originationDateTime": "2019-08-09T08:54:00Z",
+      "locationPostalCode": "M4G 4H9",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "fa8a8d90-ae46-4738-9cda-a9f68c2c30f3",
+      "locationLatitude": 43.710534412,
+      "id": "39c295c7-f32c9fe4-c5ad-4cd4-a4a1-2b969377db97",
+      "locationStreet": "65 Wicksteed Ave",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 2.46,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-10-05T13:58:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-f47ab099-a10f-4485-8716-1beb3e88f458",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2291360962,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5651",
+      "description": "WINNERS 889",
+      "type": "CreditCardTransaction",
+      "merchantName": "Winners",
+      "currencyAmount": 129.29,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-05-22T19:39:00Z",
+      "locationPostalCode": "M1G 1P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "f8fbf1ef-a463-4da8-b2db-062c2788d2e2",
+      "locationLatitude": 43.7587473241,
+      "id": "39c295c7-f53183ec-3bd0-41ca-bf2c-09b25b1b5c8e",
+      "locationStreet": "3495 Lawrence Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Shopping"
+      ]
+    },
+    {
+      "merchantCategoryCode": "4816",
+      "description": "TEKSAVVY A1Q9U9",
+      "type": "DepositAccountTransaction",
+      "merchantName": "TekSavvy",
+      "currencyAmount": -125.34,
+      "originationDateTime": "2019-08-27T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "c24ee8b4-c5fa-4cc6-b875-890f9ad99422",
+      "id": "39c295c7-f60cb194-5b6e-4966-a3bb-7d90a4338231",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Bills and Utilities"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***PAh",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-10-18T00:00:00.002Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-f7298991-e81a-4856-8064-bd3561d9f712",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "description": "EMAIL TFR C2***eTv",
+      "type": "DepositAccountTransaction",
+      "currencyAmount": -20,
+      "originationDateTime": "2019-04-26T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-f9a05fdf-c1b4-4d67-bd65-90258188453e",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Transfer"
+      ]
+    },
+    {
+      "locationLongitude": -79.2544117176,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "MCDONALD'S #40279 QPS",
+      "type": "CreditCardTransaction",
+      "merchantName": "McDonald's",
+      "currencyAmount": 4.78,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-07-18T07:09:00Z",
+      "locationPostalCode": "M1V 5P7",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "7890b43e-d23d-4074-972c-d42899114bf9",
+      "locationLatitude": 43.8334135856,
+      "id": "39c295c7-fb258661-7833-407e-b15b-522ccc924d9e",
+      "locationStreet": "5995 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.2567041893,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5814",
+      "description": "TIM HORTONS #984 _F",
+      "type": "CreditCardTransaction",
+      "merchantName": "Tim Hortons",
+      "currencyAmount": 1.43,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "Scarborough",
+      "originationDateTime": "2019-08-09T09:28:00Z",
+      "locationPostalCode": "M1V 5P6",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "66243cea-f5c3-4465-a8e0-26d369ebbd1e",
+      "locationLatitude": 43.834977324,
+      "id": "39c295c7-fc3d1c95-c0b9-4e45-b1f4-44ea29222eaf",
+      "locationStreet": "5975 Steeles Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Food and Dining"
+      ]
+    },
+    {
+      "locationLongitude": -79.3728952091,
+      "locationCountry": "CA",
+      "merchantCategoryCode": "5251",
+      "description": "CDN TIRE STORE #95085",
+      "type": "CreditCardTransaction",
+      "merchantName": "Canadian Tire",
+      "currencyAmount": 71.28,
+      "locationRegion": "ON",
+      "source": "POS",
+      "locationCity": "North York",
+      "originationDateTime": "2019-04-18T15:52:00Z",
+      "locationPostalCode": "M2K 1C2",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "merchantId": "6968d5ef-83b4-43d6-ae4d-ed29b7400280",
+      "locationLatitude": 43.7694010061,
+      "id": "39c295c7-fcd1e2c6-f0a8-4386-825c-411974f71dec",
+      "locationStreet": "1015 Sheppard Ave E",
+      "accountId": "6e2e8e8a-ef58-4f38-8f5e-e12218c82703",
+      "categoryTags": [
+        "Home"
+      ]
+    },
+    {
+      "description": "ADP PMT 16099887",
+      "type": "CreditCardTransaction",
+      "currencyAmount": 1689.93,
+      "originationDateTime": "2019-10-18T00:00:00.001Z",
+      "customerId": "39c295c7-7b43-4850-82d8-a7aa3f2fed41",
+      "id": "39c295c7-fda3410b-75f5-4e1c-a68c-ac247151df54",
+      "accountId": "2cf274ee-9ee1-4168-83d0-abfc6bba2172",
+      "categoryTags": [
+        "Income"
+      ]
+    }
+  ]
+}
