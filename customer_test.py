@@ -44,7 +44,6 @@ def createDate(input: str):
     m = reg.match(input).group(0)
     return dt.strptime(m, '%Y-%m-%d')
 
-reg = re.compile('\d{4}-\d{2}-\d{2}')
 for data in data_with_geo:
     transacs.append(
         Transaction(*[createDate(data[k]) if k == 'originationDateTime' else data[k] for k in info.keys()])
