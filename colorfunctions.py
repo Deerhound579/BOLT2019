@@ -7,16 +7,17 @@ def create_hue(tags: list): # a list of tags by store
 def create_lumin(freq: list): # a list of freq by store
     minv, maxv = min(freq), max(freq)
     diff = maxv-minv
-    return list(map (lambda x : 130-(50+(x-minv) / (diff) * 30) , freq)) 
+    return list(map (lambda x : (130-(50+(x-minv) / (diff) * 30))/100 , freq)) 
 def create_color(hue:list, lum:list): # return a list of colors in hex
     colors = []
     sat = 1
     huelumTuples = zip(hue,lum)
     for h, l in huelumTuples:
-        colors.append(Color(h, sat, l))
+        colors.append(Color(hsl=(h, sat, l)))
     return list(map(lambda c: c.hex, colors))
 
-tags = # get tag list
-freqs = # get freq list
+tags = ["red", "red", "green", "blue", "blue"] # get tag list
+freqs = [1, 5, 10, 20, 50] # get freq list
 
 colors = create_color(create_hue(tags), create_lumin(freqs))
+print(colors)
