@@ -3,6 +3,7 @@ from colour import Color
 def tagToColor(tags: list): #a list of tags by store
     colorDict = {"Food and Dining":"red",
     "Shopping":"blue", 
+    "Home":"blue",
     "Entertainment":"purple",
     "Auto and Transport":"green"}
     return list(map (lambda x : colorDict[x], tags))

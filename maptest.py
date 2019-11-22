@@ -49,7 +49,7 @@ fig = go.Figure(go.Scattermapbox(
 fig.update_layout(
     mapbox={
         'accesstoken': token,
-        'style': "outdoors",
+        'style': "light",
         'zoom': 13,
         'center': {'lon': -79.485304940,
                    'lat': 43.6680668944}},
