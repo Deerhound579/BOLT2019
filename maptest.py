@@ -29,22 +29,26 @@ token = 'pk.eyJ1IjoiamFja2x1byIsImEiOiJjajNlcnh3MzEwMHZtMzNueGw3NWw5ZXF5In0.fk8k
 
 DATA = 'data/transactions_of_customer1.json'
 
-fig = go.Figure(go.Scattermapbox(
+fig = go.Figure()
+
+fig.add_trace(
+    go.Scattermapbox(
     name='',
     mode='markers',
     lat=info['locationLatitude'],
     lon=info['locationLongitude'],
     text=info['merchantName'],
-    customdata=[(t1, t2) for t1, t2 in zip(
-        info['currencyAmount'], info['frequency'])],
-    marker={'color': colors,
+    customdata=[(t1, t2, t3) for t1, t2, t3 in zip(
+        info['currencyAmount'], info['frequency'], info['categoryTags'])],
+    marker={'color':colors,
             'size': sizes},
 
     hovertemplate=
-    '<i>Merchant</i>: %{text}' +
-    '<br><i>Amount</i>: $%{customdata[0]}<br>' +
-    '<i>Frequency</i>: %{customdata[1]} time(s)',
+    '%{text} <i>(%{customdata[2]}</i>)'+
+    '<br><i>You spent</i> $%{customdata[0]:.2f}<br>' +
+    '<i>You went here</i> %{customdata[1]} times',
 ))
+
 
 fig.update_layout(
     mapbox={
