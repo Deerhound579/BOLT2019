@@ -1,5 +1,5 @@
 import plotly.graph_objects as go
-from colorfunctions import create_hue, create_lumin, create_color
+from colorfunctions import tagToColor, create_hue, create_lumin, create_color
 from customer_test import merchants
 from sizefunction import create_size
 
@@ -22,9 +22,8 @@ for m in merchants.keys():
     info['currencyAmount'].append(merchants[m].amount)
     info['frequency'].append(merchants[m].frequency)
 
-hue = create_hue(info['categoryTags'])
-lumin = create_lumin(info['frequency'])
-
+colors = create_color(create_hue(tagToColor(info['categoryTags'])), create_lumin(info['frequency']))
+sizes = create_size(info['currencyAmount'])
 # you need your own token
 token = 'pk.eyJ1IjoiamFja2x1byIsImEiOiJjajNlcnh3MzEwMHZtMzNueGw3NWw5ZXF5In0.fk8k06T96Ml9CLGgKmk81w'
 
@@ -38,8 +37,8 @@ fig = go.Figure(go.Scattermapbox(
     text=info['merchantName'],
     customdata=[(t1, t2) for t1, t2 in zip(
         info['currencyAmount'], info['frequency'])],
-    marker={'color': create_color(hue, lumin),
-            'size': create_size(info['currencyAmount'])},
+    marker={'color': colors,
+            'size': sizes},
 
     hovertemplate=
     '<i>Merchant</i>: %{text}' +
