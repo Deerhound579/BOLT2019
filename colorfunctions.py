@@ -7,12 +7,12 @@ def tagToColor(tags: list): #a list of tags by store
     "Auto and Transport":"green"}
     return list(map (lambda x : colorDict[x], tags))
 def create_hue(colours: list): # a list of colors by store
-    hueDict = {"red":0, "blue":(217/360),"green":(117/360),"purple":(291/360)}
+    hueDict = {"red":0, "blue":(245/360),"green":(117/360),"purple":(291/360)}
     return list(map (lambda x : hueDict[x], colours))
 def create_lumin(freq: list): # a list of freq by store
     minv, maxv = min(freq), max(freq)
     diff = maxv-minv
-    return list(map (lambda x : (130-(50+(x-minv) / (diff) * 30))/100 , freq)) 
+    return list(map (lambda x : (120-(50+(x-minv) / (diff) * 20))/100 , freq)) 
 def create_color(hue:list, lum:list): # return a list of colors in hex
     colors = []
     sat = 1
