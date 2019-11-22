@@ -66,12 +66,10 @@ def createDate(input: str):
     m = reg.match(input).group(0)
     return dt.strptime(m, '%Y-%m-%d')
 
-# Count frequencies for merchants by a given key
-def getCounts(key: str) -> Counter:
-    result = Counter()
-    for m in info[key]:
-        result[m] += 1
-    return result
+for data in data_with_geo:
+    transacs.append(
+        Transaction(*[createDate(data[k]) if k == 'originationDateTime' else data[k] for k in info.keys()])
+    )
 
 # Write all data to files
 def createDataFiles() -> None:
