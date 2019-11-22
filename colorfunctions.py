@@ -21,8 +21,9 @@ def create_color(hue:list, lum:list): # return a list of colors in hex
         colors.append(Color(hsl=(h, sat, l)))
     return list(map(lambda c: c.hex, colors))
 
-tags = ["Food and Dining", "Shopping", "Entertainment", "Auto and Transport"] # get tag list
-freqs = [20, 5, 10, 20, 50] # get freq list
+#testing data
+#tags = ["Food and Dining", "Shopping", "Entertainment", "Auto and Transport"] # get tag list
+#freqs = [20, 5, 10, 20, 50] # get freq list
 
-colors = create_color(create_hue(tagToColor(tags)), create_lumin(freqs))
-print(colors)
+#colors = create_color(create_hue(tagToColor(tags)), create_lumin(freqs))
+#print(colors)
