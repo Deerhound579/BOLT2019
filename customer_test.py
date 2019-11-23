@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-import json, re
+import json, re, csv
 from datetime import datetime as dt
 from collections import namedtuple, Counter, defaultdict
 from typing import List, Dict
@@ -15,6 +15,7 @@ from typing import List, Dict
     data_with_geo: all transactions with geo info
     spending: all transactions without income
     spending_transactions: array of Transaction objects created from spending
+    tag_merchant_sorted: Dict, key = tag, val = (merchant, amount), sorted by amount in descending order
 
 '''
 
@@ -92,7 +93,7 @@ with open(TRANS) as f:
 data_with_geo = list(filter(lambda data: 'locationLongitude' in data, result))
 # Filter out income but keep transcs without geo info for pie chart
 spending = list(
-    filter(lambda data: data['currencyAmount'] >= 0 and 'Income' not in data['categoryTags'],
+    filter(lambda data: data['currencyAmount'] >= 0 and 'Income' not in data['categoryTags'] and 'Transfer' not in data['categoryTags'],
            result))
 
 for k in info.keys():
@@ -122,3 +123,35 @@ for data in spending:
     )
 
 tags.update(*[t.tags for t in spending_transactions])
+
+
+fieldnames = ['date', 'amount', 'tag']
+
+def writeCSV():
+    with open('test.csv', 'w') as csv_file:
+
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+        for t in spending_transactions: 
+            writer.writerow({'date': t.date.strftime('%m-%d'),
+                        'amount': t.amount, 'tag': t.tags[0]})
+
+
+merchant_name_amount = defaultdict(lambda:0)
+tag_merchant_name = {tag:set() for tag in tags}
+tag_merchant_sorted = {tag:[] for tag in tags}
+
+for transac in spending_transactions:
+    merchant_name_amount[transac.storeName] += transac.amount
+    tag_merchant_name[transac.tags[0]].add(transac.storeName)
+
+
+name_amount = merchant_name_amount.items()
+
+
+for tag, ms in tag_merchant_name.items():
+    for m in ms:
+        tag_merchant_sorted[tag].append((m, merchant_name_amount[m]))
+
+for k,v in tag_merchant_sorted.items():
+    tag_merchant_sorted[k] = sorted(v, key=lambda x: x[1], reverse=True)
