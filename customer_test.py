@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-import json, re
+import json, re, csv
 from datetime import datetime as dt
 from collections import namedtuple, Counter, defaultdict
 from typing import List, Dict
@@ -92,7 +92,7 @@ with open(TRANS) as f:
 data_with_geo = list(filter(lambda data: 'locationLongitude' in data, result))
 # Filter out income but keep transcs without geo info for pie chart
 spending = list(
-    filter(lambda data: data['currencyAmount'] >= 0 and 'Income' not in data['categoryTags'],
+    filter(lambda data: data['currencyAmount'] >= 0 and 'Income' not in data['categoryTags'] and 'Transfer' not in data['categoryTags'],
            result))
 
 for k in info.keys():
@@ -122,3 +122,27 @@ for data in spending:
     )
 
 tags.update(*[t.tags for t in spending_transactions])
+
+
+fieldnames = ['date', 'amount', 'tag']
+
+def writeCSV():
+    with open('test.csv', 'w') as csv_file:
+
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
+        for t in spending_transactions: 
+            writer.writerow({'date': t.date.strftime('%m-%d'),
+                        'amount': t.amount, 'tag': t.tags[0]})
+
+
+merchant_name_amount = defaultdict(lambda:0)
+
+for m in merchants.values():
+    merchant_name_amount[m.name] += m.amount
+
+# ranking_for_tags = sorted(merchant_name_amount.items(), lambda a, b: a[1] >= b[1])
+
+name_amount = merchant_name_amount.items()
+
+name_amount = sorted(name_amount, key=lambda x: x[1], reverse=True)
