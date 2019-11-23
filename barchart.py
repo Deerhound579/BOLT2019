@@ -71,8 +71,8 @@ amounts7.append(sum_currency(info7e))
 amounts7.append(sum_currency(info7s))
 
 fig = {
-    'data': [go.Bar(name='Last month', x=['Food and Dining', 'Entertainment', 'Shopping'], y=[fb, eb, sb], marker_color='indianred'),
+    'data': [go.Bar(name='Last month', x=['Food and Dining', 'Entertainment', 'Shopping'], y=[fb, eb, sb], marker_color='gold'),
              go.Bar(name='Your plan', x=['Food and Dining', 'Entertainment', 'Shopping'], y=amounts7,
-                    width=[0.6, 0.6, 0.6], marker_color='orange')],
+                    width=[0.6, 0.6, 0.6], marker_color='darkorange')],
     'layout': go.Layout(barmode='overlay')
 }

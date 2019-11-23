@@ -151,16 +151,26 @@ ranking = dbc.Card(
 
 )
 
-click_data = dbc.Card(
-    dbc.CardBody(html.Pre(id='click-data', style=styles['pre'])),
-    className="mb-3",
+imageCard = dbc.Card(
+    dbc.CardImg(src="assets/Capture.PNG"),
     color="success",
     outline=True
 )
 
+navbar = dbc.NavbarSimple(
+    children=[
+        dbc.NavItem(dbc.NavLink("Back To Online Banking", href="#"))],
+        brand="Where My Money Went",
+        brand_href="#",
+        color="primary",
+        dark=True,
+)
+
 app.layout = html.Div(
     # Title
-    [html.Div([html.H1("Where My Money Went")],
+    [   navbar,
+        html.Br(),
+        html.Div([html.H1("Where My Money Went")],
               style={"textAlign": "center"}),
 
     # Pie chart and ranking
@@ -168,6 +178,19 @@ app.layout = html.Div(
          dbc.Col(pieCard,  width={"size": 7, "offset": 0}),
          dbc.Col(ranking,  width={"size": 3, "order": "last"})
      ], justify='center'),
+
+     html.Br(),
+
+     # Mapbox
+     dbc.Row(dbc.Col(
+         mapbox, width={"size": 10}),
+         justify='center'),
+
+     html.Br(),
+
+     dbc.Row(dbc.Col(
+         imageCard, width={"size": 10}),
+         justify='center'),
 
      html.Br(),
 
@@ -180,21 +203,10 @@ app.layout = html.Div(
          justify='center'
      ),
 
-     html.Br(),
-
-    # Mapbox
-     dbc.Row(dbc.Col(
-         mapbox, width={"size":10}),
-         justify='center')
-     ]
+     ],
+    style={'backgroundColor': 'rgb(250,250,250)'}
 )
 
-
-# @app.callback(
-#     Output('click-data', 'children'),
-#     [Input('piechart', 'clickData')])
-# def display_click_data(clickData):
-#     return json.dumps(clickData, indent=2)
 
 @app.callback(
     Output('rankingGroup', 'children'),
