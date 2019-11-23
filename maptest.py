@@ -45,7 +45,7 @@ mapFig = go.Scattermapbox(
     '%{text} <i>(%{customdata[2]}</i>)'+
     '<br>You spent <b>$%{customdata[0]:.2f}</b> <br>' +
     'You went here <b>%{customdata[1]} </b> times',
-))
+)
 
 mapLayout = dict(
     mapbox={
