@@ -15,6 +15,7 @@ from typing import List, Dict
     data_with_geo: all transactions with geo info
     spending: all transactions without income
     spending_transactions: array of Transaction objects created from spending
+    tag_merchant_sorted: Dict, key = tag, val = (merchant, amount), sorted by amount in descending order
 
 '''
 
@@ -137,12 +138,20 @@ def writeCSV():
 
 
 merchant_name_amount = defaultdict(lambda:0)
+tag_merchant_name = {tag:set() for tag in tags}
+tag_merchant_sorted = {tag:[] for tag in tags}
 
-for m in merchants.values():
-    merchant_name_amount[m.name] += m.amount
+for transac in spending_transactions:
+    merchant_name_amount[transac.storeName] += transac.amount
+    tag_merchant_name[transac.tags[0]].add(transac.storeName)
 
-# ranking_for_tags = sorted(merchant_name_amount.items(), lambda a, b: a[1] >= b[1])
 
 name_amount = merchant_name_amount.items()
 
-name_amount = sorted(name_amount, key=lambda x: x[1], reverse=True)
+
+for tag, ms in tag_merchant_name.items():
+    for m in ms:
+        tag_merchant_sorted[tag].append((m, merchant_name_amount[m]))
+
+for k,v in tag_merchant_sorted.items():
+    tag_merchant_sorted[k] = sorted(v, key=lambda x: x[1], reverse=True)
