@@ -1,4 +1,3 @@
-import plotly.express as px
 import plotly.graph_objects as go
 from customer_test import info
 from plotly.offline import plot
@@ -59,14 +58,11 @@ eb = budget * ep
 fb = budget * fp
 sb = budget * sp  # shopping budget
 
-print(ae)
-print(af)
-print(ash)
 
 julyinfo = extract(info, 'originationDateTime', '2019-07')
 
-info7d = extract(julyinfo, 'categoryTags', 'Entertainment')
-info7e = extract(julyinfo, 'categoryTags', 'Food and Dining')
+info7e = extract(julyinfo, 'categoryTags', 'Entertainment')
+info7d = extract(julyinfo, 'categoryTags', 'Food and Dining')
 info7s = extract(julyinfo, 'categoryTags', 'Shopping')
 
 amounts7 = []
@@ -75,10 +71,8 @@ amounts7.append(sum_currency(info7e))
 amounts7.append(sum_currency(info7s))
 
 fig = {
-    'data': [go.Bar(x=['Food and Dining', 'Entertainment', 'Shopping'], y=[fb, eb, sb]),
-             go.Bar(x=['Food and Dining', 'Entertainment', 'Shopping'], y=amounts7,
-                    width=[0.6, 0.6, 0.6])],
+    'data': [go.Bar(name='Last month', x=['Food and Dining', 'Entertainment', 'Shopping'], y=[fb, eb, sb], marker_color='indianred'),
+             go.Bar(name='Your plan', x=['Food and Dining', 'Entertainment', 'Shopping'], y=amounts7,
+                    width=[0.6, 0.6, 0.6], marker_color='orange')],
     'layout': go.Layout(barmode='overlay')
 }
-
-plot(fig)
