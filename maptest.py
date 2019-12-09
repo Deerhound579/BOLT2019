@@ -25,7 +25,7 @@ for m in merchants.keys():
 colors = create_color(create_hue(tagToColor(info['categoryTags'])), create_lumin(info['frequency']))
 sizes = create_size(info['currencyAmount'])
 # you need your own token
-token = 'pk.eyJ1IjoiamFja2x1byIsImEiOiJjajNlcnh3MzEwMHZtMzNueGw3NWw5ZXF5In0.fk8k06T96Ml9CLGgKmk81w'
+token = ''
 
 DATA = 'data/transactions_of_customer1.json'
 
